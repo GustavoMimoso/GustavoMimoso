@@ -20,17 +20,14 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  
   <!-- Web & Scripting -->
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
   <!-- Infraestrutura & Ferramentas -->
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  
   <!-- Banco de Dados -->
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
@@ -55,11 +52,11 @@
 
 ## 🎯 Áreas de Interesse
 <div align="center">
-  ![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-FF69B4?style=for-the-badge&logo=tableau&logoColor=white)
-  ![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Administração de Sistemas](https://img.shields.io/badge/Linux%20Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Automação](https://img.shields.io/badge/Automação-4BC51D?style=for-the-badge&logo=ansible&logoColor=white)
-  ![Suporte Técnico](https://img.shields.io/badge/Suporte%20T%C3%A9cnico-0088CC?style=for-the-badge&logo=zendesk&logoColor=white)
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-FF69B4?style=for-the-badge&logo=tableau&logoColor=white" alt="Análise de Dados" />
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Desenvolvimento Web" />
+  <img src="https://img.shields.io/badge/Linux%20Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Administração de Sistemas" />
+  <img src="https://img.shields.io/badge/Automação-4BC51D?style=for-the-badge&logo=ansible&logoColor=white" alt="Automação" />
+  <img src="https://img.shields.io/badge/Suporte%20T%C3%A9cnico-0088CC?style=for-the-badge&logo=zendesk&logoColor=white" alt="Suporte Técnico" />
 </div>
 
 ---
@@ -84,19 +81,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 **Descrição:** Scripts para automação de processos de catalogação e gestão de leilões, incluindo extração de dados e relatórios.
-
-### 📊 Dashboard de Monitoramento de Sistemas  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=postman&logoColor=white)  
-**Descrição:** Painel interativo em React que consome APIs Python para exibir métricas em tempo real da infraestrutura de TI.
-
-### 🎮 Mods e Customizações  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-**Descrição:** Desenvolvimento de mods para jogos usando C++ e Java, com scripts auxiliares em Python para otimização de assets.
-
 ---
 
 ## 📫 Contato Profissional
