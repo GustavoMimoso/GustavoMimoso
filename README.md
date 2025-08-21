@@ -63,22 +63,6 @@
 
 ---
 
-## 🔧 Projetos Destacados
-
-### 🎯 Sistema de Automação de Leilões
-- **Tecnologias:** Python, JavaScript, SQL
-- **Descrição:** Scripts para automação de processos de catalogação e gestão de leilões
-
-### 📊 Dashboard de Monitoramento de Sistemas  
-- **Tecnologias:** Python, React, APIs
-- **Descrição:** Painel para monitoramento em tempo real da infraestrutura de TI
-
-### 🎮 Mods e Customizações
-- **Tecnologias:** C++, Java, Python
-- **Descrição:** Desenvolvimento de modificações e melhorias para jogos e aplicações
-
----
-
 ## 📫 Contato Profissional
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-mimoso-001a24249/" target="_blank">
