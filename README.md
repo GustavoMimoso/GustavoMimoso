@@ -14,17 +14,23 @@
 ---
 
 ## 🛠️ Stack Tecnológica
-## 🛠️ Stack Tecnológica
 <div align="center">
   <!-- Linguagens Principais -->
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
@@ -52,6 +58,7 @@
   <img src="https://img.shields.io/badge/Linux%20Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Administração de Sistemas" />
   <img src="https://img.shields.io/badge/Automação-4BC51D?style=for-the-badge&logo=ansible&logoColor=white" alt="Automação" />
   <img src="https://img.shields.io/badge/Suporte%20T%C3%A9cnico-0088CC?style=for-the-badge&logo=zendesk&logoColor=white" alt="Suporte Técnico" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing" />
 </div>
 
 ---
@@ -76,6 +83,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 **Descrição:** Scripts para automação de processos de catalogação e gestão de leilões, incluindo extração de dados e relatórios.
+
+---
+
+## 🏆 Certificações e Aprendizado
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Estudando-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure em Estudo" />
+  <img src="https://img.shields.io/badge/AWS%20Educate-Participante-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Educate" />
+  <img src="https://img.shields.io/badge/Python%20Development-Ativo-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Development" />
+</div>
+
 ---
 
 ## 📫 Contato Profissional
@@ -90,7 +107,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
