@@ -86,10 +86,11 @@
   <a href="mailto:gustavomimoso@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://www.instagram.com/gustavosmimoso?igsh=bjE3em83ZnJmcmEy&utm_source=qr)" target="_blank">
+  <a href="https://www.instagram.com/gustavosmimoso?igsh=bjE3em83ZnJmcmEy&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
