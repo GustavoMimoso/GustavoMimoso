@@ -71,8 +71,9 @@
 ---
 
 ## 📈 Gráfico de Atividade  
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GustavoMimoso&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=GustavoMimoso&theme=dark&hide_border=true" />
+</div>
 
 ---
 
