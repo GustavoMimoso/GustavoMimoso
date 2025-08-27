@@ -71,7 +71,8 @@
 ---
 
 ## 📈 Gráfico de Atividade  
-[![Gráfico de atividade](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoMimoso&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GustavoMimoso&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 ---
 
