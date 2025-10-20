@@ -83,12 +83,21 @@ _Jan/2025   – Presente_
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-03A9F4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing"/>
-  <img src="https://img.shields.io/badge/⚙️_Automação-4CAF50?style=for-the-badge&logo=automation&logoColor=white" alt="Automação"/>
-  <img src="https://img.shields.io/badge/🌐_Desenvolvimento_Web-61DAFB?style=for-the-badge&logo=webflow&logoColor=black" alt="Desenvolvimento Web"/>
-  <img src="https://img.shields.io/badge/📊_Data_Analysis-F50057?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/🎮_Games_and_Tech-FF5722?style=for-the-badge&logo=unity&logoColor=white" alt="Games"/>
+  <img src="https://cdn.simpleicons.org/aws/FF9900" width="40" alt="AWS"/>  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker"/>  
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"/>  
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="40" alt="Node.js"/>  
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"/>  
 </div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" width="40" alt="Ansible"/>  
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL"/>  
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"/>  
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" alt="Linux"/>  
+  <img src="https://cdn.simpleicons.org/windows/0078D6" width="40" alt="Windows"/>  
+</div>
+
 
 ---
 
