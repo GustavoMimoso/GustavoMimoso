@@ -127,12 +127,4 @@ _Jan/2025   – Presente_
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/GustavoMimoso/Snake-grafico-de-contribui-o/main/output/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake GitHub" 
-    width="600"
-/>
-</div>
