@@ -6,7 +6,6 @@
   </a>
 </div>
 
-
 ---
 
 ## 💡 Citação Inspiradora
