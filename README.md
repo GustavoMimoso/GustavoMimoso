@@ -83,20 +83,14 @@ _Jan/2025   – Presente_
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/aws/FF9900" width="40" alt="AWS"/>  
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker"/>  
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"/>  
-  <img src="https://cdn.simpleicons.org/node.js/339933" width="40" alt="Node.js"/>  
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"/>  
+  <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=343a40" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=gear&logoColor=white&labelColor=343a40" alt="Automação"/>
+  <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=343a40" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge&logo=tableau&logoColor=white&labelColor=343a40" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Games%20&%20Tech-FF5722?style=for-the-badge&logo=unity&logoColor=white&labelColor=343a40" alt="Games & Tech"/>
 </div>
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" width="40" alt="Ansible"/>  
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL"/>  
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"/>  
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" alt="Linux"/>  
-  <img src="https://cdn.simpleicons.org/windows/0078D6" width="40" alt="Windows"/>  
-</div>
+
 
 
 ---
