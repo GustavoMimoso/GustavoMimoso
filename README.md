@@ -82,24 +82,13 @@ _Jan/2025   – Presente_
 
 ## 🎯 Áreas de Interesse
 
-<div align="center" style="display:flex;gap:10px;">
-  <div style="background:#03A9F4;padding:5px 12px;border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" style="vertical-align:middle;"/> Cloud Computing
-  </div>
-  <div style="background:#4CAF50;padding:5px 12px;border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20" style="vertical-align:middle;"/> Automação
-  </div>
-  <div style="background:#61DAFB;padding:5px 12px;border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align:middle;"/> Web Development
-  </div>
-  <div style="background:#FFB300;padding:5px 12px;border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="20" style="vertical-align:middle;"/> Data Analysis
-  </div>
-  <div style="background:#FF5722;padding:5px 12px;border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20" style="vertical-align:middle;"/> Games & Tech
-  </div>
+<div align="center">
+  <img src="https://badgen.net/badge/Cloud%20Computing/Azure/0078D4?icon=microsoft-azure" alt="Cloud Computing"/>
+  <img src="https://badgen.net/badge/Automação/Ansible/EE0000?icon=ansible" alt="Automação"/>
+  <img src="https://badgen.net/badge/Web%20Development/React/61DAFB?icon=react" alt="Web Development"/>
+  <img src="https://badgen.net/badge/Data%20Analysis/Tableau/FFB300?icon=tableau" alt="Data Analysis"/>
+  <img src="https://badgen.net/badge/Games%20&%20Tech/Unity/000000?icon=unity" alt="Games & Tech"/>
 </div>
-
 
 ---
 
