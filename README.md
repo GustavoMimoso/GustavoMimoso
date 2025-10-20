@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Gustavo%20Mimoso&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?color=FF0000&size=32&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Gustavo+Mimoso;💼+Suporte+TI+%7C+Desenvolvedor;🎓+Engenheiro+de+Computação;🚀+Transformando+ideias+em+código;💡+Inovação+e+Tecnologia)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com/?color=FF0000&size=32&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Gustavo+Mimoso;💼+Suporte+TI+|+Desenvolvedor;🎓+Engenheiro+de+Computação;🚀+Transformando+ideias+em+código;💡+Inovação+e+Tecnologia" alt="Typing SVG"/>
 </div>
+
 
 ---
 
@@ -46,7 +47,7 @@ Tenho sólida experiência em infraestrutura, sistemas de leilões online e supo
 ## 💼 Experiência Profissional
 
 **🕴️ Guariglia Leilões** — Suporte TI  
-_Jul/2024 – Presente_  
+_Jan/2025   – Presente_  
 - Manutenção de redes, servidores e infraestrutura  
 - Gerenciamento de sistemas de leilões online  
 - Desenvolvimento de scripts Python e automações  
