@@ -65,11 +65,11 @@ _Jan/2025   – Presente_
 
 ## 🎓 Formação Acadêmica & Certificações
 
-**Bacharelado em Engenharia de Computação** — UNIP  
+**Bacharelado em Engenharia de Computação (_Concluido_)** — UNIP  
 - Disciplinas: Programação, Estruturas de Dados, Redes e Sistemas Embarcados  
 - Projetos de conclusão sobre automação industrial e interfaces gráficas  
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNIFATECIE  
+**Tecnólogo em Análise e Desenvolvimento de Sistemas(_Cursando_)** — UNIFATECIE  
 - Disciplinas: Algoritmos, Banco de Dados, Engenharia de Software, Programação Web e Mobile  
 - Projetos de conclusão: Desenvolvimento de aplicações web, automação de processos e integração de APIs
 
