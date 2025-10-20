@@ -80,23 +80,23 @@ _Jan/2025   – Presente_
 
 ---
 
-## 🎯 Áreas de Interesse
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,n8n,react,powerbi,unity" alt="Cloud Computing, Automação, Desenvolvimento Web, Data Analysis, Games & Tech"/>
-</div>
-
-
----
-
 ## 📫 Vamos Conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-mimoso-001a24249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gustavomimoso@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/gustavosmimoso"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/GustavoMimoso"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-mimoso-001a24249/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gustavomimoso@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/gustavosmimoso">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/GustavoMimoso">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
 </div>
+
 
 ---
 
