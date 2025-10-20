@@ -33,7 +33,7 @@ Tenho sólida experiência em infraestrutura, sistemas de leilões online e supo
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,tailwind,aws,azure,docker,github,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,tailwind,aws,azure,docker,github,git,dotnet,npm,wordpress,linux,windows" />
   
 </div>
 
