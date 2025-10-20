@@ -83,9 +83,9 @@ _Jan/2025   – Presente_
 ## 📫 Vamos Conectar?
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="90" alt="pulse"/>
-    &nbsp,align="center";Vamos Conectar?
+   <h2>
+    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="90" alt="pulse" style="vertical-align:middle;"/>
+    &nbsp;Vamos Conectar?
   </h2>
 </div>
 
