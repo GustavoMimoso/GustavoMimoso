@@ -83,12 +83,9 @@ _Jan/2025   – Presente_
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="https://badgen.net/badge/Cloud%20Computing/Azure/0078D4?icon=microsoft-azure" alt="Cloud Computing"/>
-  <img src="https://badgen.net/badge/Automação/Ansible/EE0000?icon=ansible" alt="Automação"/>
-  <img src="https://badgen.net/badge/Web%20Development/React/61DAFB?icon=react" alt="Web Development"/>
-  <img src="https://badgen.net/badge/Data%20Analysis/Tableau/FFB300?icon=tableau" alt="Data Analysis"/>
-  <img src="https://badgen.net/badge/Games%20&%20Tech/Unity/000000?icon=unity" alt="Games & Tech"/>
+  <img src="https://skillicons.dev/icons?i=aws,n8n,react,powerbi,unity" alt="Cloud Computing, Automação, Desenvolvimento Web, Data Analysis, Games & Tech"/>
 </div>
+
 
 ---
 
