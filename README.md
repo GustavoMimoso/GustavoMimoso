@@ -83,12 +83,9 @@ _Jan/2025   – Presente_
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-FF9900?style=for-the-badge" alt="Cloud Computing"/>
-  <img src="https://img.shields.io/badge/🔧_Automação-4BC51D?style=for-the-badge" alt="Automação"/>
-  <img src="https://img.shields.io/badge/🌐_Desenvolvimento_Web-61DAFB?style=for-the-badge" alt="Desenvolvimento Web"/>
-  <img src="https://img.shields.io/badge/📊_Data_Analysis-FF69B4?style=for-the-badge" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/🎮_Games_and_Tech-FF4500?style=for-the-badge" alt="Games"/>
+  <img src="https://skillicons.dev/icons?i=aws,ansible,react,tableau,unity" alt="Cloud Computing, Automação, Desenvolvimento Web, Data Analysis, Games and Tech"/>
 </div>
+
 
 ---
 
