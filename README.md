@@ -83,6 +83,13 @@ _Jan/2025   – Presente_
 ## 📫 Vamos Conectar?
 
 <div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="30" alt="pulse"/>
+    &nbsp;Vamos Conectar?
+  </h2>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-mimoso-001a24249/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
@@ -96,7 +103,6 @@ _Jan/2025   – Presente_
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
 </div>
-
 
 ---
 
