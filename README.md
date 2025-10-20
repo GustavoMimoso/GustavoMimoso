@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Gustavo%20Mimoso&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Gustavo+Mimoso;💼+Suporte+TI+%7C+Desenvolvedor;🎓+Engenheiro+de+Computação;🚀+Transformando+ideias+em+código;💡+Inovação+e+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Olá,+sou+Gustavo+Mimoso;💼+Suporte+TI+%7C+Desenvolvedor;🎓+Engenheiro+de+Computação;🚀+Transformando+ideias+em+código;💡+Inovação+e+Tecnologia" alt="Typing SVG" />
 </div>
+
 
 
 ---
