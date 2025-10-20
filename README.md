@@ -131,9 +131,8 @@ _Jan/2025   – Presente_
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/refs/heads/main/.github/workflows/main.yml"
-    alt="Contribution Snake GitHub"
-    width="600"
-  />
+  src="https://raw.githubusercontent.com/GustavoMimoso/Snake-grafico-de-contribui-o/main/output/github-contribution-grid-snake-dark.svg"
+  alt="Contribution Snake GitHub"
+/>
 </div>
 
