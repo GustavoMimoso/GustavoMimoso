@@ -83,9 +83,12 @@ _Jan/2025   – Presente_
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,ansible,react,tableau,unity" alt="Cloud Computing, Automação, Desenvolvimento Web, Data Analysis, Games and Tech"/>
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-03A9F4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/⚙️_Automação-4CAF50?style=for-the-badge&logo=automation&logoColor=white" alt="Automação"/>
+  <img src="https://img.shields.io/badge/🌐_Desenvolvimento_Web-61DAFB?style=for-the-badge&logo=webflow&logoColor=black" alt="Desenvolvimento Web"/>
+  <img src="https://img.shields.io/badge/📊_Data_Analysis-F50057?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/🎮_Games_and_Tech-FF5722?style=for-the-badge&logo=unity&logoColor=white" alt="Games"/>
 </div>
-
 
 ---
 
