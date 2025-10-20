@@ -130,7 +130,9 @@ _Jan/2025   – Presente_
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/github-contribution-grid-snake-dark.svg](https://github.com/GustavoMimoso/Snake-grafico-de-contribui-o)"/>
+  <img 
+    src="https://raw.githubusercontent.com/GustavoMimoso/Snake-grafico-de-contribui-o/main/output/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Snake GitHub" 
+    width="600"
+/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer"/>
