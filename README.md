@@ -75,6 +75,10 @@ _Jan/2025   – Presente_
 - Disciplinas: Programação, Estruturas de Dados, Redes e Sistemas Embarcados  
 - Projetos de conclusão sobre automação industrial e interfaces gráficas  
 
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNIFATECIE  
+- Disciplinas: Algoritmos, Banco de Dados, Engenharia de Software, Programação Web e Mobile  
+- Projetos de conclusão: Desenvolvimento de aplicações web, automação de processos e integração de APIs
+
 **Certificações em Andamento**  
 - Microsoft Azure Fundamentals (AZ-900)  
 - AWS Certified Cloud Practitioner  
@@ -94,7 +98,7 @@ _Jan/2025   – Presente_
 
 ---
 
-## 📫 Contato
+## 📫 Vamos Conectar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-mimoso-001a24249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
