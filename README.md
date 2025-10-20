@@ -83,7 +83,7 @@ _Jan/2025   – Presente_
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,ansible,react,tableau,unity" alt="Cloud Computing, Automação, Desenvolvimento Web, Analysis, Games & Tech"/>
+  <img src="https://skillicons.dev/icons?i=aws,ansible,react,tableau,unity" alt="Cloud Computing, Automação, Desenvolvimento Web, data, Games & Tech"/>
 </div>
 
 ---
