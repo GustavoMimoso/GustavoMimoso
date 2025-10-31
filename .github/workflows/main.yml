@@ -26,7 +26,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif
-            dist/snake-dark.gif?palette=github-dark
+            dist/snake-dark.gif?palette=github-dark&autoplay=1
           is_dark: true   # Ativa o modo dark
 
       - name: Debug - List files
