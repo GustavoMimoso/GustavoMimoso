@@ -94,9 +94,9 @@ Tenho experiência em infraestrutura, sistemas de leilões online, suporte N1/N2
 </p>
 
 ---
-## Contribuições (Snake Dark Mode)
+## Contribuições (Snake Dark Mode com Autoplay)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.gif" alt="Snake contribution dark mode"/>
+  <img src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.gif?autoplay=1" alt="Snake contribution dark mode"/>
 </p>
 
 ---
@@ -112,6 +112,3 @@ Tenho experiência em infraestrutura, sistemas de leilões online, suporte N1/N2
 </p>
 
 ---
-
-> **Snake atualizado automaticamente a cada 24h via GitHub Actions**  
-> _"Código em movimento é código vivo."_
