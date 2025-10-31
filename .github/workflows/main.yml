@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # A cada 24 horas
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -19,15 +18,18 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate Snake
+      - name: Generate Snake (Light + Dark)
         uses: Platane/snk@v3
         with:
           github_user_name: GustavoMimoso
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
             dist/snake.gif
+            dist/snake-dark.gif?palette=github-dark
+          is_dark: true   # Ativa o modo dark
 
-      - name: Debug - List generated files
+      - name: Debug - List files
         run: ls -la dist/
 
       - name: Deploy to output branch
@@ -36,6 +38,6 @@ jobs:
           target_branch: output
           build_dir: dist
           keep_history: true
-          commit_message: "chore: update contribution snake"
+          commit_message: "chore: update contribution snake (light + dark)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
