@@ -4,13 +4,15 @@
 </div>
 
 ---
+<div style="background-color: #0D1117; color: #FFFFFF; padding: 20px; border-radius: 12px; margin: 10px 0;">
+
 ## Citação Inspiradora
 > “Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor.”  
 > — **Elon Musk**
 
 ---
 ## Sobre Mim
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?autoplay=1">
 
 Sou **Gustavo Henrique de Souza Mimoso**, profissional de **Suporte TI** na **Guariglia Leilões** (Caçapava/SP) e **Bacharel em Engenharia de Computação** pela UNIP.
 
@@ -24,7 +26,7 @@ Tenho experiência em infraestrutura, sistemas de leilões online, suporte N1/N2
 ---
 ## Stack Tecnológica
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,tailwind,aws,azure,docker,github,git,dotnet,npm,wordpress,linux,windows&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,tailwind,aws,azure,docker,github,git,dotnet,npm,wordpress,linux,windows&perline=12&theme=dark" />
 </div>
 
 ---
@@ -62,7 +64,7 @@ Tenho experiência em infraestrutura, sistemas de leilões online, suporte N1/N2
 ## Vamos Conectar?
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="80" alt="pulse"/>
+    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?autoplay=1" width="80" alt="pulse"/>
     &nbsp;Vamos nos conectar?
   </h2>
 </div>
@@ -94,9 +96,9 @@ Tenho experiência em infraestrutura, sistemas de leilões online, suporte N1/N2
 </p>
 
 ---
-## Contribuições (Snake Dark Mode com Autoplay)
+## Contribuições (Snake Dark Mode + Autoplay)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.gif?autoplay=1" alt="Snake contribution dark mode"/>
+  <img src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.gif?autoplay=1" alt="Snake contribution dark mode" width="90%"/>
 </p>
 
 ---
@@ -112,3 +114,7 @@ Tenho experiência em infraestrutura, sistemas de leilões online, suporte N1/N2
 </p>
 
 ---
+> **Snake atualizado automaticamente a cada 24h via GitHub Actions**  
+> _"Código em movimento é código vivo."_
+
+</div>
