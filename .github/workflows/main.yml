@@ -1,3 +1,4 @@
+# .github/workflows/generate-snake.yml
 name: Generate Snake
 
 on:
@@ -13,31 +14,26 @@ jobs:
       pages: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate Snake (Light + Dark)
+      - name: Gerar Snake (Dark + Autoplay)
         uses: Platane/snk@v3
         with:
           github_user_name: GustavoMimoso
           outputs: |
-            dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif
             dist/snake-dark.gif?palette=github-dark&autoplay=1
-          is_dark: true   # Ativa o modo dark
+          is_dark: true
 
-      - name: Debug - List files
-        run: ls -la dist/
-
-      - name: Deploy to output branch
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
           keep_history: true
-          commit_message: "chore: update contribution snake (light + dark)"
+          commit_message: "chore: update snake (dark + autoplay)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
