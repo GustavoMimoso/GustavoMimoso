@@ -56,13 +56,15 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 ## 🎯 Projetos em Destaque
 
-| 🎨 Projeto | 💻 Tecnologias | 📝 Descrição |
-|-----------|----------------|-----------|
-| **Presente-cailane2** | React, Tailwind, D3.js, Canvas | App web romântica com animações interativas e galeria de fotos |
-| **Previsão do Tempo** | Java, OpenWeatherMap, Gson, FlatLaf | Interface gráfica moderna com busca por coordenadas |
-| **Conversor Moedas/Cripto** | Python, Tkinter | Conversão em tempo real com UI amigável e histórico |
-| **Automação de Leilões** | Python, SQL, Web Scraping | Catalogação automática e geração de relatórios |
-| **Agenda Moderna** | Python, ttkbootstrap | CRUD completo com busca avançada e backup automático |
+| Projeto                                      | Tecnologias                        | Descrição                                                                                   |
+|-----------------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------|
+| [desafio-minimal-api](https://github.com/GustavoMimoso/desafio-minimal-api)         | C# (.NET), Swagger                 | API REST minimalista para gerenciamento de tarefas, com filtragem avançada e documentação.  |
+| [PrevisaoDoTempoJava](https://github.com/GustavoMimoso/PrevisaoDoTempoJava)         | Java, OpenWeatherMap, FlatLaf      | App desktop moderno para consulta de clima por localização, com tema dinâmico.              |
+| [Tcc-de-ia](https://github.com/GustavoMimoso/Tcc-de-ia)                             | Python, OpenCV, MediaPipe, YOLO    | IA para controle gestual em leilões via webcam, com reconhecimento e automação.             |
+| [Presente-cailane2](https://github.com/GustavoMimoso/Presente-cailane2)             | JavaScript, React, Tailwind        | App web romântico com animações, galeria e interatividade personalizada.                    |
+| [Desafio-de-Codigo-2](https://github.com/GustavoMimoso/Desafio-de-Codigo-2)         | C#                                 | Exercícios de lógica e desafios práticos com .NET.                                          |
+| [Desafio-de-Codigo-Dio](https://github.com/GustavoMimoso/Desafio-de-Codigo-Dio)     | C#                                 | Projetos e desafios desenvolvidos durante o bootcamp na DIO em C#.                          |
+
 
 ---
 
