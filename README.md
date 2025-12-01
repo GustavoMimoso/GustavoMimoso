@@ -100,20 +100,37 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoMimoso&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&rank_icon=github)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FF0000&fire=FF6B6B)
-  
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoMimoso&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&rank_icon=github"
+    alt="GitHub Stats"
+  />
+
+  <!-- GitHub Streak (NOVA URL) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FF0000&fire=FF6B6B"
+    alt="GitHub Streak"
+  />
+
 </div>
 
 <div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF6B6B&area=true&hide_border=true)
-  
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117"
+    alt="Top Languages"
+  />
+
+  <!-- Activity Graph (NOVA URL) -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF6B6B&area=true&hide_border=true"
+    alt="Atividade"
+  />
+
 </div>
+
 
 ---
 
