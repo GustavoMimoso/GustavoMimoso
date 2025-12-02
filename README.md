@@ -73,13 +73,32 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&dates=FFFFFF)
+<!-- Stats gerais -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=GustavoMimoso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"
+  alt="GitHub Stats Gustavo Mimoso"
+/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições+Mensais&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
+<!-- Linguagens mais usadas -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+  alt="Top Languages Gustavo Mimoso"
+/>
+
+<!-- Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&dates=FFFFFF"
+  alt="GitHub Streak Gustavo Mimoso"
+/>
+
+<!-- Gráfico de atividade -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições%20Recentes&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"
+  alt="Activity Graph Gustavo Mimoso"
+/>
 
 </div>
 
----
 
 ## 🐍 Contribuições (Snake Adaptável Dark/Light Mode)
 
