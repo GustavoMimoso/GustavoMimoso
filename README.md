@@ -73,10 +73,6 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoMimoso&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&rank_icon=github&border_radius=10)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&dates=FFFFFF)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições+Mensais&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
@@ -85,6 +81,19 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 ---
 
+## 🐍 Contribuições (Snake Adaptável Dark/Light Mode)
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake.svg" />
+<img alt="snake-contribution" src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
