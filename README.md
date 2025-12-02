@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🔧+Suporte+TI+%7C+Desenvolvedor+Full-Stack;🎓+Engenheiro+de+Computação;💡+Transformando+ideias+em+código;🚀+Inovação+e+Tecnologia)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🔧+Suporte+TI+%7C+Desenvolvedor+Full-Stack;🎓+Engenheiro+de+Computação;💡+Transformando+ideias+em+código;🚀+Inovação+e+Tecnologia)
 
 </div>
 
@@ -73,11 +73,13 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoMimoso&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoMimoso&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&rank_icon=github&border_radius=10)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FF0000&fire=FF6B6B)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF6B6B&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&dates=FFFFFF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições+Mensais&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
 
 </div>
 
@@ -107,7 +109,7 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=GustavoMimoso&color=FF0000&style=for-the-badge&label=VISITANTES)
+![Visitors](https://komarev.com/ghpvc/?username=GustavoMimoso&color=00D9FF&style=for-the-badge&label=VISITANTES)
 
 </div>
 
