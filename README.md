@@ -12,7 +12,7 @@
 
 Sou **Gustavo Henrique de Souza Mimoso**, profissional de **Suporte TI** na **Guariglia Leilões** (Caçapava/SP) e **Bacharel em Engenharia de Computação** pela **UNIP**.
 
-Com experiência em **infraestrutura**, **sistemas de leilões online**, **suporte N1/N2**, **automação com Python**, **cloud** (AWS/Azure) e **desenvolvimento full-stack**. Apaixonado por tecnologia, inovação e soluções escaláveis.
+Com experiência em **infraestrutura**, **sistemas de leilões online**, **suporte N1/N2/N3**, **automação com Python**, **cloud** (AWS/Azure) e **desenvolvimento full-stack**. Apaixonado por tecnologia, inovação e soluções escaláveis.
 
 **📍 São José dos Campos, SP**
 
