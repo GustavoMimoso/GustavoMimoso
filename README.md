@@ -77,11 +77,11 @@ Com experiência em **infraestrutura**, **sistemas de leilões online**, **supor
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoMimoso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"
+    src="https://github-readme-stats.vercel.app/api?username=GustavoMimoso&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&cache_seconds=21600"
     alt="GitHub Stats Gustavo Mimoso"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMimoso&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=21600"
     alt="Top Languages Gustavo Mimoso"
   />
   <img 
