@@ -1,139 +1,31 @@
-# 👋 Olá! Sou Gustavo Mimoso
+# Gustavo Mimoso
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🔧+Suporte+TI+%7C+Desenvolvedor+Full-Stack;🎓+Engenheiro+de+Computação;💡+Transformando+ideias+em+código;🚀+Inovação+e+Tecnologia"
-    alt="Typing SVG"
-  />
-</div>
+Trabalho com suporte e customer success na **Brendi**. Antes disso,
+passei quase 5 anos na Guariglia Leilões cuidando de infra, rede e
+tudo que quebrasse — entrei estagiário, saí efetivado.
 
----
-
-## ✨ Sobre Mim
-
-Sou **Gustavo Henrique de Souza Mimoso**, profissional de **Suporte TI** na **Guariglia Leilões** (Caçapava/SP) e **Bacharel em Engenharia de Computação** pela **UNIP**.
-
-Com experiência em **infraestrutura**, **sistemas de leilões online**, **suporte N1/N2/N3**, **automação com Python**, **cloud** (AWS/Azure) e **desenvolvimento full-stack**. Apaixonado por tecnologia, inovação e soluções escaláveis.
-
-**📍 São José dos Campos, SP**
+Sou engenheiro de computação formado, então programar não é hobby: é
+parte de como eu resolvo problema. Meu TCC foi um sistema de
+reconhecimento de gestos com YOLOv8 pra usar em leilões — juntei as
+duas coisas que eu conhecia.
 
 ---
 
-## 🛠️ Stack Tecnológica
+**Stack** · `Python` `C#/.NET` `Node.js` `React` `PostgreSQL` `SQL Server` `AWS` `Azure` `Docker`
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,typescript,react,tailwind,nodejs,aws,azure,docker,github,git,dotnet,npm,linux,windows&perline=12&theme=dark"
-      alt="Skills"
-    />
-  </a>
-</div>
+**Certificações** · AWS Cloud Practitioner · Azure Fundamentals (AZ-900)
 
-**Ferramentas principais:** Python • Java • C# • JavaScript • React • Tailwind • AWS • Azure • Docker • Git
+**Formação** · Eng. de Computação — UNIP · ADS — UNIFATECIE *(em curso)*
 
 ---
 
-## 💼 Experiência Profissional
+#### Alguns projetos
 
-### 🔧 **Suporte TI** — *Guariglia Leilões*
-**Jan/2025 – Presente**
-
-- ✅ Manutenção de redes, servidores e infraestrutura
-- ✅ Gerenciamento de sistemas de leilões online
-- ✅ Desenvolvimento de scripts Python e automações
-- ✅ Suporte N1/N2 interno e externo
-- ✅ Monitoramento, melhorias e segurança
+- **[TCC — Gesture Recognition](https://github.com/GustavoMimoso/Tcc-de-ia)** — controle gestual em leilões com YOLOv8 e OpenCV
+- **[Order API](https://github.com/GustavoMimoso/order-api)** — API RESTful em Node.js + PostgreSQL com Swagger e Postman
+- **[Minimal API](https://github.com/GustavoMimoso/desafio-minimal-api)** — API REST em .NET 9 com EF Core
+- **[Previsão do Tempo](https://github.com/GustavoMimoso/PrevisaoDoTempoJava)** — app desktop em Java com tema dinâmico
 
 ---
 
-## 🎯 Projetos em Destaque
-
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|----------|
-| [desafio-minimal-api](https://github.com/GustavoMimoso/desafio-minimal-api) | C# (.NET), Swagger | API REST minimalista para gerenciamento de tarefas com filtragem avançada |
-| [PrevisaoDoTempoJava](https://github.com/GustavoMimoso/PrevisaoDoTempoJava) | Java, OpenWeatherMap, FlatLaf | App desktop para consulta de clima com tema dinâmico |
-| [Tcc-de-ia](https://github.com/GustavoMimoso/Tcc-de-ia) | Python, OpenCV, MediaPipe, YOLO | IA para controle gestual em leilões via webcam |
-| [Presente-cailane2](https://github.com/GustavoMimoso/Presente-cailane2) | React, JavaScript, Tailwind | App web romântica com animações e interatividade |
-| [Desafio-de-Codigo-2](https://github.com/GustavoMimoso/Desafio-de-Codigo-2) | C# | Exercícios de lógica com .NET |
-
----
-
-## 🎓 Formação & Certificações
-
-### 📚 Educação
-- 🏆 **Engenharia de Computação** (Concluído) — *UNIP*
-- 📖 **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Cursando) — *UNIFATECIE*
-
-### 📜 Certificações
-- 🔵 Microsoft Power Platform (Achieved Badge)
-- 🔵 Microsoft Azure Fundamentals (AZ-900)
-- 🟠 AWS Certified Cloud Practitioner
-- ⚛️ Full-Stack Web Development
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=GustavoMimoso&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&dates=FFFFFF"
-    alt="GitHub Streak Gustavo Mimoso"
-  />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMimoso&custom_title=Contribuições%20Recentes&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"
-    alt="Activity Graph Gustavo Mimoso"
-  />
-</div>
-
----
-
-## 🐍 Contribuições (Snake Adaptável Dark/Light Mode)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake.svg" />
-    <img alt="snake-contribution" src="https://raw.githubusercontent.com/GustavoMimoso/GustavoMimoso/output/snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavomimoso-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gustavomimoso@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/gustavosmimoso">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/GustavoMimoso">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-## 💡 Citação Inspiradora
-
-> _"Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor."_  
-> **— Elon Musk**
-
----
-
-## 👁️ Visitantes do Perfil
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GustavoMimoso&color=00D9FF&style=for-the-badge&label=VISITANTES" alt="Visitors" />
-</div>
-
----
-
-<div align="center">
-  <i>⚡ Código em movimento é código vivo.</i>
-</div>
+<sub>📍 São José dos Campos, SP · [LinkedIn](https://www.linkedin.com/in/gustavo-mimoso-dev/) · [Email](mailto:gustavomimoso@outlook.com)</sub>
